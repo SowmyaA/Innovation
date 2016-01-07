@@ -4,4 +4,6 @@ The idea got selected as one of the finalists. Its an POC, built using Bootstarp
 
 See Portal : http://supersowmyainnovation.azurewebsites.net/index.html
 
+Note : This is an sample data. Does not belong to any particular organization in general. 
+
 
